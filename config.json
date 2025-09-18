@@ -1,6 +1,6 @@
 {
   "app": "mauipe",
-  "apiBaseUrl": "http://161.22.47.228/api",
+  "apiBaseUrl": "http://161.22.47.228/api/",
   "catalogos": {
     "clientes": "Paquete/Clientes",
     "productos": "Paquete/Productos",
