@@ -6,5 +6,13 @@
     "productos": "Paquete/Productos",
     "formasPago": "Paquete/FormasPago",
     "vendedores": "Paquete/Vendedores"
+  },
+   "app": "economart",
+  "apiBaseUrl": "http://192.168.1.200/api/",
+  "catalogos": {
+    "clientes": "Paquete/Clientes",
+    "productos": "Paquete/Productos",
+    "formasPago": "Paquete/FormasPago",
+    "vendedores": "Paquete/Vendedores"
   }
 }
