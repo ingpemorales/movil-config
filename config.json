@@ -1,18 +1,24 @@
 {
-  "app": "mauipe",
-  "apiBaseUrl": "http://161.22.47.228/api/",
-  "catalogos": {
-    "clientes": "Paquete/Clientes",
-    "productos": "Paquete/Productos",
-    "formasPago": "Paquete/FormasPago",
-    "vendedores": "Paquete/Vendedores"
-  },
-   "app": "economart",
-  "apiBaseUrl": "http://192.168.1.200/api/",
-  "catalogos": {
-    "clientes": "Paquete/Clientes",
-    "productos": "Paquete/Productos",
-    "formasPago": "Paquete/FormasPago",
-    "vendedores": "Paquete/Vendedores"
-  }
+  "apps": [
+    {
+      "app": "mauipe",
+      "apiBaseUrl": "http://161.22.47.228/api/",
+      "catalogos": {
+        "clientes": "Paquete/Clientes",
+        "productos": "Paquete/Productos",
+        "formasPago": "Paquete/FormasPago",
+        "vendedores": "Paquete/Vendedores"
+      }
+    },
+    {
+      "app": "economart",
+      "apiBaseUrl": "http://192.168.1.200/api/",
+      "catalogos": {
+        "clientes": "Paquete/Clientes",
+        "productos": "Paquete/Productos",
+        "formasPago": "Paquete/FormasPago",
+        "vendedores": "Paquete/Vendedores"
+      }
+    }
+  ]
 }
