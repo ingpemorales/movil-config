@@ -12,7 +12,7 @@
     },
     {
       "app": "economart",
-      "apiBaseUrl": "http://192.168.1.200/api/",
+      "apiBaseUrl": "http://192.168.1.69/api/",
       "catalogos": {
         "clientes": "Paquete/Clientes",
         "productos": "Paquete/Productos",
