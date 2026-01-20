@@ -12,7 +12,7 @@
     },
     {
       "app": "economart",
-      "apiBaseUrl": "http://app2.econo-mart.com/",
+      "apiBaseUrl": "http://app2.econo-mart.com/api/",
       "catalogos": {
         "clientes": "Paquete/Clientes",
         "productos": "Paquete/Productos",
